@@ -57,6 +57,7 @@ module.exports = (env, argv) => {
       port: 3030,
       open: true,
       hot: true,
+      watchContentBase: true,
       watchFiles: './',
     },
     plugins: plugins(),
