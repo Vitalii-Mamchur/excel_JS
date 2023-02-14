@@ -14,5 +14,6 @@ module.exports = {
   rules: {
     'object-curly-spacing': 'off',
     'linebreak-style': 'off',
+    'require-jsdoc': 'off',
   },
 };
